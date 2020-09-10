@@ -1,1 +1,5 @@
-print("fuck you")
+
+
+def show():
+	print("fuck you")
+
